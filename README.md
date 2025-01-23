@@ -5,7 +5,8 @@ My favorite quote is: 言念君子，温其如玉!
 
 ---
 
-![finatext](finatext.png) | ![teqasia](teqasia.png) | ![nowcast](nowcast.png)
+| ![finatext](finatext.png) | ![teqasia](teqasia.png)   | ![nowcast](nowcast.png)   |
+| ------------------------- | ------------------------- | ------------------------- |
 
 <!--
 **teq-thuynguyen/teq-thuynguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
